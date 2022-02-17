@@ -1,0 +1,25 @@
+body {
+  background-color:black;
+}
+
+h1 {
+  color: white;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  float:right;
+}
+
+.map {
+  color: white;
+  margin-top: 500px;
+  margin-bottom: 500px;
+  margin-left:100px;
+}
+
+.database {
+  color: white;
+  margin-left:100px;
+}
