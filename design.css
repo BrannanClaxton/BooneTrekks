@@ -1,5 +1,6 @@
 body {
-  background-color:black;
+  background: linear-gradient(#000000, #3e4042);
+  color:white;
 }
 
 h1 {
@@ -10,15 +11,19 @@ img {
   width: 50%;
   height: 50%;
   float:right;
+  margin-right: 153px;
 }
 
 #map {
-  margin-top:200px;
-  margin-left: 100px;
+  margin-top:100px;
+  margin-left: 150px;
   height: 180px;
 }
 
 .database {
   color: white;
-  margin-left:100px;
+}
+
+p {
+  margin-left: 100px;
 }
